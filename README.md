@@ -6,7 +6,7 @@
   - [Setup a SIEM in Azure](https://github.com/kennyvilchez/LABURL)
   - [Vulnerability Management](https://github.com/kennyvilchez/LABURL)
   - [SOAR EDR](https://github.com/kennyvilchez/LABURL)
-  - [SOC Automation Project](https://github.com/kennyvilchez/LABURL)
+  - [SOC Automation](https://github.com/kennyvilchez/LABURL)
   - [Web Application Firewall](https://github.com/kennyvilchez/LABURL)
   
 <h2> :page_with_curl: Certfications: </h2>
