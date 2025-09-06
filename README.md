@@ -11,7 +11,7 @@
   
 <h2> :page_with_curl: Certfications: </h2>
 
- - [CompTIA CySA+](https://github.com/kennyvilchez/LABURL)
+ - [CompTIA CySA+](https://www.credly.com/badges/acf94e55-7d5c-4559-992c-2de6c555868a/public_url)
  - [CompTIA Security+](https://github.com/kennyvilchez/LABURL)
  - [CompTIA Network+](https://github.com/kennyvilchez/LABURL)
  - [CompTIA A+](https://github.com/kennyvilchez/LABURL)
