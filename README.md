@@ -4,7 +4,7 @@
 
 
   - [Setup a SIEM in Azure](https://github.com/kennyvilchez/LABURL)
-  - [Vulnerability Management](https://github.com/kennyvilchez/LABURL)
+  - [Vulnerability Management]([https://github.com/kennyvilchez/LABURL](https://github.com/kennyvilchez/Vulnerability-Management-Project/blob/main/README.md))
   - [SOAR EDR](https://github.com/kennyvilchez/LABURL)
   - [SOC Automation](https://github.com/kennyvilchez/LABURL)
   - [Web Application Firewall](https://github.com/kennyvilchez/LABURL)
