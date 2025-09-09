@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Setup a SIEM in Azure](https://github.com/kennyvilchez/LABURL)
+  - [SIEM in Azure](https://github.com/kennyvilchez/LABURL)
   - [SOAR EDR](https://github.com/kennyvilchez/LABURL)
   - [SOC Automation](https://github.com/kennyvilchez/LABURL)
   - [Web Application Firewall](https://github.com/kennyvilchez/LABURL)
