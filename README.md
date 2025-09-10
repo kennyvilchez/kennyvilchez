@@ -6,7 +6,7 @@
   - [Azure SIEM](https://github.com/kennyvilchez/AzureSIEM)
   - [SOAR EDR](https://github.com/kennyvilchez/LABURL)
   - [SOC Automation](https://github.com/kennyvilchez/LABURL)
-  - [Web Application Firewall](https://github.com/kennyvilchez/LABURL)
+  - [pfSense Network Firewall](https://github.com/kennyvilchez/LABURL)
   - [Vulnerability Management](https://github.com/kennyvilchez/Vulnerability-Management-Project/blob/main/README.md)
   
 <h2> :page_with_curl: Certfications: </h2>
