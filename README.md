@@ -4,7 +4,7 @@
 
 
   - [Azure SIEM](https://github.com/kennyvilchez/AzureSIEM)
-  - [SOAR EDR](https://github.com/kennyvilchez/LABURL)
+  - [SOAR EDR](https://github.com/kennyvilchez/SOAR-EDR)
   - [SOC Automation](https://github.com/kennyvilchez/LABURL)
   - [PFSense Network Firewall](https://github.com/kennyvilchez/NetworkFirewall)
   - [Vulnerability Management](https://github.com/kennyvilchez/Vulnerability-Management-Project)
