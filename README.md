@@ -5,8 +5,8 @@
 
   - [Azure SIEM](https://github.com/kennyvilchez/AzureSIEM)
   - [SOAR EDR](https://github.com/kennyvilchez/SOAR-EDR)
-  - [AI Phishing Email Analyzer](https://github.com/kennyvilchez/AIPhishingAnalyzer)
   - [PFSense Network Firewall](https://github.com/kennyvilchez/NetworkFirewall)
+  - [AI Phishing Email Analyzer](https://github.com/kennyvilchez/AIPhishingAnalyzer)
   - [Vulnerability Management](https://github.com/kennyvilchez/Vulnerability-Management-Project)
   
 <h2> :page_with_curl: Certfications: </h2>
