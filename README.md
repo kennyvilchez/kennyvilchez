@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Azure SIEM](https://github.com/kennyvilchez/AzureSIEM)
   - [SOAR EDR](https://github.com/kennyvilchez/SOAR-EDR)
+  - [Azure SIEM](https://github.com/kennyvilchez/AzureSIEM)
   - [PFSense Network Firewall](https://github.com/kennyvilchez/NetworkFirewall)
   - [AI Phishing Email Analyzer](https://github.com/kennyvilchez/AIPhishingAnalyzer)
   - [Vulnerability Management](https://github.com/kennyvilchez/Vulnerability-Management-Project)
