@@ -1,4 +1,4 @@
-<h1> 🛡️ Kenny Vilchez | Cybersecurity & IT Specialist </h1>
+<h1> 🛡️ Kenny Vilchez's Portfolio </h1>
 
 ### 🐱‍💻 Exploring security, automation, and cloud solutions through hands-on labs and real-world inspired projects.
 
